@@ -1,0 +1,13 @@
+
+Select all movies:
+('RRR', 'ram charan', 'alia bhatt', 2022, 'SS rajamouli')
+('kick', 'salman khan', 'jacquiline', 2016, 'sajid nadidawala')
+('bajrangi', 'salman khan', 'kareena kapoor', 2018, 'kabir khan')
+('3-idiot', 'amir khan', 'kareena kapoor', 2011, 'raju irani')
+('The Dark Knight', 'Christian Bale', 'Heath Ledger', 2008, 'Christopher Nolan')
+('Avengers:infinity', 'Robert Downey Jr', 'Chrissie Smith', 2018, 'Anthony Russo')
+('race 1', 'saif ali khan', 'jaquline', 2013, 'remo d souza')
+
+
+Select all movies with the actor 'Robert Downey Jr':
+('Avengers:infinity', 2018, 'Anthony Russo')
